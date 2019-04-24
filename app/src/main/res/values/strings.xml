@@ -1,0 +1,7 @@
+<resources>
+    <string name="button_second">Reply</string>
+    <string name="editText_second">Enter Your Reply Here</string>
+    <string name="app_name">app_name</string>
+    <string name="reply_message">Reply Message</string>
+    <string name="send">SEND</string>
+</resources>
